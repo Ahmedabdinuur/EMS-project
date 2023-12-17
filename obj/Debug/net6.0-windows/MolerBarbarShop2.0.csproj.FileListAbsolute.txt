@@ -1,0 +1,74 @@
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.exe
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.deps.json
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.runtimeconfig.json
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.pdb
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.AssemblyReference.cache
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Form1.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.GenerateResource.cache
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.AssemblyInfoInputs.cache
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.AssemblyInfo.cs
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\refint\MolerBarbarShop2.0.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.pdb
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.genruntimeconfig.cache
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\ref\MolerBarbarShop2.0.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Properties.Resources.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.inventory.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Transfer.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Adjustments.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.student.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.CopyComplete
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.issue.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Return.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Items.resources
+C:\Users\Sohail Amjad\source\repos\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Ordering.resources
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.AssemblyReference.cache
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Properties.Resources.resources
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.GenerateResource.cache
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.AssemblyInfoInputs.cache
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.AssemblyInfo.cs
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.CoreCompileInputs.cache
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\refint\MolerBarbarShop2.0.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.pdb
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.exe
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.deps.json
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.runtimeconfig.json
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\MolerBarbarShop2.0.pdb
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2._0.Mainform.resources
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.csproj.CopyComplete
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\MolerBarbarShop2.0.genruntimeconfig.cache
+E:\Fiverr\AhmedProjectusingEntityFramework\MolerBarbarShop2.0\obj\Debug\net6.0-windows\ref\MolerBarbarShop2.0.dll
